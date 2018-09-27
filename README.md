@@ -13,7 +13,7 @@
     <h2>css规范</h2>
     <ul>
       <li>没有自己的命名规范就遵循<a href="https://github.com/Tencent/tmt-workflow/wiki/⒛-%5B规范%5D--CSS-BEM-书写规范">BEM</a>规范</li>
-      <li>css属性书写顺序遵循<a href="https://github.com/doyoe/html-css-guide#semicolon">先布局后内容</a></li> 
+      <li>css属性书写顺序遵循<a href="https://github.com/doyoe/html-css-guide#user-content-13属性书写顺序">先布局后内容</a></li> 
       <li>遵循<em>布局+组件=页面</em>的设计思想</li>
       <li>统一使用<a href="https://icomoon.io/">font-icon</a>显示矢量图标</li>
     </ul>
