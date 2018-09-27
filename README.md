@@ -26,7 +26,7 @@
         公司项目框架统一采用<a href="https://github.com/vuejs/vue">vue</a>
         +<a href="https://github.com/vuejs/vue-router">vue-router</a>+
         <a href="https://github.com/vuejs/vuex">vuex</a>+<a href="https://github.com/axios/axios">axios</a>
-        (<a href="https://github.com/vuejs-templates/webpack">参考环境搭建地址</a>)
+        (<a href="https://github.com/vuejs-templates/webpack">开发环境搭建地址</a>)
       </li>
       <li>遵循<a href="https://pablohpsilva.github.io/vuejs-component-style-guide/#/">Vue组件规范</a></li>
     </ul>
